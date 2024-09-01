@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+header {
+
+}
+
+
+main {
+    
+}
+
+
+footer {
+    
+}
+
+@media (max-width: 768px) {
+    /* Estilo para tablet */
+}
+
+
+@media (max-width: 430px) {
+    /* Estilo para mobile */
+}
